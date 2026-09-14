@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://githubusercontent.com" alt="w1n4a banner" width="100%">
+  <img src="banner.jpg" alt="w1n4a banner" width="100%">
 </p>
 
 <div align="center" style="margin-bottom: 20px;">
@@ -29,9 +29,11 @@
 
 ## 🛠️ Технологический стек & Навыки
 
-![Python](https://shields.io) ![CustomTkinter](https://shields.io) ![Telegram Bot](https://shields.io) ![Lua](https://shields.io) ![Godot](https://shields.io) ![Linux](https://shields.io)
+### 🚀 Мой стек: ` Python ` | ` CustomTkinter ` | ` Telegram Bot (telebot) ` | ` Lua ` | ` Godot (GDScript) ` | ` Linux `
 
-<table width="100%" style="border-collapse: collapse; border: none; margin-top: 15px;">
+<br>
+
+<table width="100%" style="border-collapse: collapse; border: none; margin-top: 5px;">
   <tr style="border: none; background: transparent;">
     <td width="50%" style="border: none; padding: 0 10px 0 0; vertical-align: top;">
       <p style="margin: 0 0 8px 0; color: #8b949e; font-size: 0.9em; text-transform: uppercase; font-weight: 600; letter-spacing: 0.5px;">Разработка интерфейсов</p>
