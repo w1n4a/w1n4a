@@ -1,35 +1,49 @@
-<!-- Скрытое хакерское послание в коде страницы -->
-<!-- w1n4a@fsociety protocol: executing backup layers -->
-
 <p align="center">
-  <!-- Анимированный баннер-строка в стиле Mr. Robot -->
-  <img src="https://demolab.com" alt="fsociety terminal" />
+  <img src="https://githubusercontent.com" alt="w1n4a banner" width="100%">
 </p>
 
-```bash
-[+] SECURE CONNECTION ESTABLISHED WITH FSOCIETY NODES.
-[+] ACTIVE CORE OPERATOR: w1n4a
-[+] PROTOCOL: OPSEC SHIELD ACTIVE
-```
+<div align="center" style="margin-bottom: 20px;">
+  <h1 align="center" style="border-bottom: none; font-size: 2.5em; font-weight: 700; color: #ffffff; margin-bottom: 10px;">Привет, я w1n4a 👋</h1>
+  <p style="font-size: 1.15em; color: #8b949e; max-width: 600px; margin: 0 auto; line-height: 1.6;">
+    Инди-разработчик. Я создаю независимые программные компоненты и интерфейсные решения, ориентированные на удобство и стабильность.
+  </p>
+</div>
 
-## 🖥️ SYSTEM OVERVIEW & DESCRIPTION
-Холодный и минималистичный подход к созданию прикладного софта и кастомных окружений. Разрабатываю независимые, высокоточные графические компоненты и утилиты, ориентированные на конечного пользователя.
+<hr style="border: 0; height: 1px; background: #30363d; margin: 30px 0;" />
 
-## 📂 RECENT OPERATIONS (PROJECTS)
-* **`CTkPlus`** — Собственная UI-библиотека. Глубокая переработка стандартных компонентов (кнопок, спинбоксов, фреймов) и логики CustomTkinter.
-* **`MySoft Engine`** — Проектирование внутренней экосистемы, кастомного терминала виджетов и системных утилит.
-* **`Media Subsystem`** — Изолированный плеер с модулями циклической обработки аудио и управления потоками.
+## 📦 Мой главный проект: CTkPlus
 
-## 📊 ACTIVE COMPILER LANGUAGES
-```bash
-> _ cat /etc/environment/developed_languages.conf
+<div style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 20px; margin-bottom: 30px;">
+  <p style="font-size: 1.1em; line-height: 1.7; color: #c9d1d9; margin-top: 0;">
+    <b>CTkPlus</b> — это современная библиотека интерфейса для Python, которая полностью перерабатывает и расширяет стандартную экосистему CustomTkinter. Проект создан, чтобы избавить разработчиков от базовых ограничений стандартных виджетов и дать им готовые, кастомные элементы «из коробки».
+  </p>
+  
+  <h3 style="color: #58a6ff; margin-top: 20px; margin-bottom: 10px;">Что уже сделано в бете:</h3>
+  <ul style="color: #c9d1d9; line-height: 1.6; padding-left: 20px;">
+    <li><b>Глубокая модернизация фреймов:</b> Переписана внутренняя логика контейнеров для точного позиционирования.</li>
+    <li><b>Кастомные спинбоксы:</b> Разработан удобный и отзывчивый элемент SpinBox для работы с числовыми значениями.</li>
+    <li><b>Продвинутые элементы ввода:</b> Новые поля ввода с поддержкой правильных фокусов и встроенных кнопок действия.</li>
+    <li><b>Оптимизация hover-эффектов:</b> Стабильная и плавная смена состояний компонентов при наведении.</li>
+  </ul>
+  
+  <p style="margin-bottom: 0; margin-top: 20px; font-size: 0.95em; color: #8b949e;">
+    🚀 Проект активно развивается и уже опубликован на <b>PyPI</b>. Сейчас я занимаюсь ручным тестированием всех фокусов ввода и подготовкой чистой документации для релиза.
+  </p>
+</div>
 
-  [■■■■■■■■■■■■■■■■■■■■]  100%  Python  (Advanced GUI / Core Automation / Scripting)
-  [■■■■■■■■■■■■■■■■□□□□]   80%  Lua     (Game modification layers / Embedded logic)
-  [■■■■■■■■■■■■□□□□□□□□]   60%  C++     (Low-level core structures / High-performance architecture)
-```
+## 🛠️ Технологический стек & Навыки
 
-```bash
-[+] SHUTTING DOWN LOCAL CONSOLE DISPLAY...
-[+] CONNECTION CLOSED. [EXIT CODE: 1]
-```
+![Python](https://shields.io) ![CustomTkinter](https://shields.io) ![Telegram Bot](https://shields.io) ![Lua](https://shields.io) ![Godot](https://shields.io) ![Linux](https://shields.io)
+
+<table width="100%" style="border-collapse: collapse; border: none; margin-top: 15px;">
+  <tr style="border: none; background: transparent;">
+    <td width="50%" style="border: none; padding: 0 10px 0 0; vertical-align: top;">
+      <p style="margin: 0 0 8px 0; color: #8b949e; font-size: 0.9em; text-transform: uppercase; font-weight: 600; letter-spacing: 0.5px;">Разработка интерфейсов</p>
+      <p style="margin: 0; color: #c9d1d9; font-size: 0.95em; line-height: 1.5;">Проектирование GUI-систем на базе CustomTkinter, создание кастомных адаптивных виджетов, тонкая настройка геометрии окон и визуальных стилей.</p>
+    </td>
+    <td width="50%" style="border: none; padding: 0 0 0 10px; vertical-align: top;">
+      <p style="margin: 0 0 8px 0; color: #8b949e; font-size: 0.9em; text-transform: uppercase; font-weight: 600; letter-spacing: 0.5px;">Инструменты и автоматизация</p>
+      <p style="margin: 0; color: #c9d1d9; font-size: 0.95em; line-height: 1.5;">Разработка Telegram-ботов с использованием библиотеки telebot, контроль версий Git, сборка и публикация независимых пакетов на PyPI.</p>
+    </td>
+  </tr>
+</table>
