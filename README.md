@@ -3,7 +3,7 @@
 </p>
 
 <div align="center" style="margin-bottom: 20px;">
-  <h1 align="center" style="border-bottom: none; font-size: 2.5em; font-weight: 700; color: #ffffff; margin-bottom: 10px;">Привет, я w1n4a 👋</h1>
+  <h1 align="center" style="border-bottom: none; font-size: 2.5em; font-weight: 700; color: #ffffff; margin-bottom: 10px;">Привет, я w1n4a 🕊️</h1>
   <p style="font-size: 1.15em; color: #8b949e; max-width: 600px; margin: 0 auto; line-height: 1.6;">
     Обычный инди-разработчик. Делаю свои небольшие проги, пилю разные полезные штуки и стараюсь, чтобы интерфейс в программах был удобным и не бесил при использовании.
   </p>
