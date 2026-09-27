@@ -5,19 +5,13 @@
 <h1 align="center">Hey there, I'm w1n4a 🕊️</h1>
 
 <p align="center">
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="Followers">
-  </a>
-</p>
-
-<p align="center">
   Welcome! I am a 13-year-old independent developer deeply passionate about exploring codebases, building custom tools, and understanding how things work under the hood. I specialize in crafting desktop interfaces, backend automation, and custom software libraries.
 </p>
 
 ---
 
 ### 📦 Spotlight Project: CTkPlus
-**CTkPlus** is an extension library for **CustomTkinter (Python)** that simplifies UI development by providing production-ready custom components. The beta version is fully open-source and already published on [PyPI](https://pypi.org).
+**CTkPlus** is an extension library for **CustomTkinter (Python)** that simplifies UI development by providing production-ready custom components. The beta version is fully open-source and already published on [PyPI]([https://pypi.org](https://pypi.org/project/CTkPlus/)).
 
 ---
 
