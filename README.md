@@ -18,4 +18,6 @@
   <li><a href="https://github.com/w1n4a/CTkPlus"><stronge>CTkPlus</stronge></a> - custom widgets for CTk in Python (package, sorry for readme - its look ai-slop)</li>
 </ul>
 
+---
+
 <p align="center">P.S: About banner: i use Zed</p>
