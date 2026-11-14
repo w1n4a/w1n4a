@@ -13,7 +13,7 @@
 </h1>
 
 <ul align="center">
-  <li><a href="https://github.com/w1n4a/befli">Befli</a> - simple args system for Rust (package)</li>
-  <li><a href="https://github.com/w1n4a/equ">Equ</a> - simple data system for Rust (package)</li>
-  <li><a href="https://github.com/w1n4a/CTkPlus">Equ</a> - simple data system for Rust (package)</li> #Sorry for readme looks ai-slop
+  <li><a href="https://github.com/w1n4a/befli"><stronge>Befli</stronge></a> - simple args system for Rust (package)</li>
+  <li><a href="https://github.com/w1n4a/equ"><stronge>Equ</stronge></a> - simple data system for Rust (package)</li>
+  <li><a href="https://github.com/w1n4a/CTkPlus"><stronge>CTkPlus</stronge></a> - custom widgets for CTk in Python (package, sorry for readme - its look ai-slop)</li>
 </ul>
