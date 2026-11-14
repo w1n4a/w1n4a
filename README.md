@@ -4,7 +4,7 @@
 
 <h1 align="center">I use arch, btw</h1>
 
-<p align="center">Hi, im w1n4a. My love is Rust & Linux, but i can coding in another language (python,gd,lua, html+css...)</p>
+<p align="center">Hi, im w1n4a. My love is Rust & Linux, but i can code in another language (python,gd,lua, html+css...)</p>
 
 ---
 
@@ -15,7 +15,7 @@
 <ul align="center">
   <li><a href="https://github.com/w1n4a/befli"><stronge>Befli</stronge></a> - simple args system for Rust (package)</li>
   <li><a href="https://github.com/w1n4a/equ"><stronge>Equ</stronge></a> - simple data system for Rust (package)</li>
-  <li><a href="https://github.com/w1n4a/CTkPlus"><stronge>CTkPlus</stronge></a> - custom widgets for CTk in Python (package, sorry for readme - its look ai-slop)</li>
+  <li><a href="https://github.com/w1n4a/CTkPlus"><stronge>CTkPlus</stronge></a> - custom widgets for CTk in Python (package, sorry for readme - its looks like ai-slop - i rewrite readme... sometimes)</li>
 </ul>
 
 ---
