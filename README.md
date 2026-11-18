@@ -13,6 +13,7 @@
 </h1>
 
 <ul align="center">
+  <li><a href="https://github.com/w1n4a/w1nOS"><stronge>w1nOS</stronge></a> - my system based on Rust & Linux</li>
   <li><a href="https://github.com/w1n4a/befli"><stronge>Befli</stronge></a> - simple args system for Rust (package)</li>
   <li><a href="https://github.com/w1n4a/equ"><stronge>Equ</stronge></a> - simple data system for Rust (package)</li>
   <li><a href="https://github.com/w1n4a/CTkPlus"><stronge>CTkPlus</stronge></a> - custom widgets for CTk in Python (package, sorry for readme - its looks like ai-slop - i rewrite readme... sometimes)</li>
